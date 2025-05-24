@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+transformers
+sentence-transformers
+faiss-cpu
+spacy
+networkx
+nltk
+rouge-score
+bert-score
+datasets
+streamlit
